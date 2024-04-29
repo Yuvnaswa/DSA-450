@@ -37,14 +37,6 @@
 - Better Responsive CSS
 - Better State Management
 
-## Run Locally 💻
-
-```
-npm install
-npm start
-```
-
-
 ## Credits 🙏🏻
 
 #### Curated list of question in [450dsa] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
