@@ -48,28 +48,11 @@ export default function About({ resetData, exportData, importData }) {
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									DSA Cracker Sheet
+									DSA Cracker Sheet.
 								</a>
-							</i>{" "}
-							by{" "}
-							<b>
-								<a href="https://www.linkedin.com/in/love-babbar-38ab2887/" target="_blank" rel="noopener noreferrer">
-									Love Babbar
-								</a>
-							</b>{" "}
-							<span role="img" aria-label="join-hands">
-								🙏🏻
-							</span>
+							</i>
 						</h2>
-						<h4 className="text-center my-5">
-							Project by{" "}
-							<a href="https://www.linkedin.com/in/asishraju/" target="_blank" rel="noopener noreferrer">
-								Asish
-							</a>{" "}
-							<span role="img" aria-label="code-men">
-								👨🏻‍💻
-							</span>
-						</h4>
+
 						<h5 className="text-center">
 							<Badge
 								variant="danger"
